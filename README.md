@@ -1,0 +1,1 @@
+# Hibernate_NamedHQL_Insert_Operation
